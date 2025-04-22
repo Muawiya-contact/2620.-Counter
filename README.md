@@ -51,6 +51,7 @@ var createCounter = function(n) {
  * console.log(counter()); // 11
  * console.log(counter()); // 12
  */
+
 ```
 # 🧠 Why It Works
 + The outer function createCounter(n) returns a new function.
